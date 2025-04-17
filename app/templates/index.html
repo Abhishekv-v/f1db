@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1DB</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="logo">F1DB</div>
+            <nav class="nav">
+              <a href="#" class="nav-item active" data-section="home">🏠 Home</a>
+              <a href="#" class="nav-item" data-section="drivers">🏎️ Drivers</a>
+              <a href="#" class="nav-item" data-section="seasons">🗓️ Seasons</a>
+              <a href="#" class="nav-item" data-section="races">🏁 Races</a>
+              <a href="#" class="nav-item" data-section="teams">🧑‍🤝‍🧑 Teams</a>
+              <a href="#" class="nav-item" data-section="circuits">📍 Circuits</a>
+            </nav>
+            <div class="settings">⚙️ Settings</div>
+        </aside>
+
+        <main class="main-content">
+            <section id="home" class="content-section">
+                <h1>Welcome to F1DB</h1>
+                <p>Start exploring driver stats, team performances, circuit history, and more!</p>
+            </section>
+
+            <section id="drivers" class="content-section hidden">
+                <h1>Drivers</h1>
+
+                <div class="table-container">
+                    <table id="driversTable">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>Nationality</th>
+                                <th>Wins</th>
+                                <th>Points</th>
+                                <th>Teams</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBodyDrivers">
+                            <!-- Driver rows will be inserted here dynamically -->
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pagination" id="paginationDrivers"></div>
+            </section>
+
+            <section id="seasons" class="content-section hidden">
+                <h1>Seasons</h1>
+                <div class="table-container">
+                  <table id="driversTable">
+                    <thead>
+                      <tr>
+                        <th>#</th>
+                        <th>Year</th>
+                        <th>Driver Champion</th>
+                        <th>Constructor Champion</th>
+                        <th>Races</th>
+                        <th>Details</th>
+                      </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                      <!-- Driver rows will be inserted here dynamically -->
+                    </tbody>
+                  </table>
+                </div>
+            <div class="pagination" id="pagination"></div>
+            </section>              
+
+            <section id="races" class="content-section hidden">
+                <h1>Races</h1>
+                <p>Race data display...</p>
+            </section>
+
+            <section id="teams" class="content-section hidden">
+                <h1>Teams</h1>
+                <p>Team details go here...</p>
+            </section>
+
+            <section id="circuits" class="content-section hidden">
+                <h1>Circuits</h1>
+                <p>F1 circuit maps and info...</p>
+            </section>
+
+        </main>
+    </div>
+
+    <script src="../static/script.js"></script>
+
+</body>
+
+</html>

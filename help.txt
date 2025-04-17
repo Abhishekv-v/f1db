@@ -1,0 +1,8 @@
+run.py
+   ↓
+app/__init__.py  ➜  creates the app
+   ↓
+app/routes.py    ➜  defines how URLs behave
+   ↓
+app/templates/   ➜  renders your HTML
+app/data_scripts/ ➜  only used when populating the database
