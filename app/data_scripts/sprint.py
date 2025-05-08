@@ -5,38 +5,39 @@ import json
 limit = 30
 offset = 0
 ns = {'ns': 'http://ergast.com/mrd/1.5'}
-years = []
 url = "https://ergast.com/api/f1/sprint"
+sprint_results = []
+
 while True:
     response = requests.get(f"{url}?limit={limit}&offset={offset}")
     root = ET.fromstring(response.content)
     total = int(root.get('total'))
 
     for race in root.findall('ns:RaceTable/ns:Race', ns):
-        
+        season = race.get('season')
+        round_ = race.get('round')
 
-        races.append((seasonID, circuitID, roundNo, raceName, raceDate))
+        for sprint in race.findall('.//ns:SprintResult', ns):
+            points = sprint.get('points')
+            given_name = sprint.find('ns:Driver/ns:GivenName', ns).text
+            family_name = sprint.find('ns:Driver/ns:FamilyName', ns).text
+            driver_name = f"{given_name} {family_name}"
+
+            constructor_name = sprint.find('ns:Constructor/ns:Name', ns).text
+
+            sprint_results.append({
+                "season": season,
+                "round": round_,
+                "driver_name": driver_name,
+                "constructor_name": constructor_name,
+                "points": points
+            })
+
     if offset + limit >= total:
         break
     offset += limit
-# Save the extracted data to a JSON file
-def save_to_json(data):
-    with open('sprint_results.json', 'w') as f:
-        json.dump(data, f, indent=4)
 
-# Main function to fetch, extract, and save the data
-def main():
-    # Fetch data from Ergast API
-    root = fetch_data()
-    
-    if root is not None:
-        # Extract relevant data
-        sprint_results = extract_relevant_data(root)
-        
-        # Save the data to a JSON file
-        save_to_json(sprint_results)
-        print("Data has been saved to sprint_results.json")
+with open('app/data_scripts/sprint_results.json', 'w') as json_file:
+    json.dump(sprint_results, json_file, indent=4)
 
-# Run the main function
-if __name__ == "__main__":
-    main()
+print("Saved sprint_results.json.")

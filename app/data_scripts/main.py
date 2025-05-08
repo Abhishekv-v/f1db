@@ -104,7 +104,6 @@ cursor.execute('''
         season_id INT NOT NULL,
         driver_id INT NOT NULL,
         points FLOAT,
-        position INT,
         FOREIGN KEY (season_id) REFERENCES seasons(season_id),
         FOREIGN KEY (driver_id) REFERENCES drivers(driver_id)
     );
@@ -117,7 +116,6 @@ cursor.execute('''
         season_id INT NOT NULL,
         constructor_id INT NOT NULL,
         points FLOAT,
-        position INT,
         FOREIGN KEY (season_id) REFERENCES seasons(season_id),
         FOREIGN KEY (constructor_id) REFERENCES constructors(constructor_id)
     );

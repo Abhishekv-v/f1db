@@ -1,0 +1,2522 @@
+[
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "3"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "2"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "George Russell",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Antonio Giovinazzi",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Nikita Mazepin",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "10",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "2"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "1"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Antonio Giovinazzi",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "George Russell",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Nikita Mazepin",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Robert Kubica",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "14",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "2"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "1"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Antonio Giovinazzi",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "George Russell",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2021",
+        "round": "19",
+        "driver_name": "Nikita Mazepin",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "6"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "5"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "4"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "3"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "2"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "1"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "4",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "6"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "5"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "4"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "3"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "11",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "8"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "6"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "5"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "4"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "3"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "2"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "1"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Sebastian Vettel",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Mick Schumacher",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Nicholas Latifi",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2022",
+        "round": "21",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Nyck de Vries",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "4",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Nyck de Vries",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "9",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "12",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "17",
+        "driver_name": "Liam Lawson",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "18",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "7"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "6"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "5"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "AlphaTauri",
+        "points": "3"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "2"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "1"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "AlphaTauri",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Alfa Romeo",
+        "points": "0"
+    },
+    {
+        "season": "2023",
+        "round": "20",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "5",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "RB F1 Team",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "6",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Daniel Ricciardo",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Logan Sargeant",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "11",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Franco Colapinto",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Liam Lawson",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "19",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Liam Lawson",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Franco Colapinto",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Oliver Bearman",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "21",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Oscar Piastri",
+        "constructor_name": "McLaren",
+        "points": "8"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Lando Norris",
+        "constructor_name": "McLaren",
+        "points": "7"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "George Russell",
+        "constructor_name": "Mercedes",
+        "points": "6"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Carlos Sainz",
+        "constructor_name": "Ferrari",
+        "points": "5"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Charles Leclerc",
+        "constructor_name": "Ferrari",
+        "points": "4"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Lewis Hamilton",
+        "constructor_name": "Mercedes",
+        "points": "3"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Nico H\u00fclkenberg",
+        "constructor_name": "Haas F1 Team",
+        "points": "2"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Max Verstappen",
+        "constructor_name": "Red Bull",
+        "points": "1"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Pierre Gasly",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Kevin Magnussen",
+        "constructor_name": "Haas F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Fernando Alonso",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Valtteri Bottas",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Lance Stroll",
+        "constructor_name": "Aston Martin",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Esteban Ocon",
+        "constructor_name": "Alpine F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Alexander Albon",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Liam Lawson",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Yuki Tsunoda",
+        "constructor_name": "RB F1 Team",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Franco Colapinto",
+        "constructor_name": "Williams",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Guanyu Zhou",
+        "constructor_name": "Sauber",
+        "points": "0"
+    },
+    {
+        "season": "2024",
+        "round": "23",
+        "driver_name": "Sergio P\u00e9rez",
+        "constructor_name": "Red Bull",
+        "points": "0"
+    }
+]
